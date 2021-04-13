@@ -22,6 +22,9 @@ h1 {
 }
 
 .esa {
-    color: green;
+    color: white;
+    background-color: blue;
     font-weight: bolder;
+    box-shadow: 5px 0px 3px 3px black;
+    font-size: 1.6rem;
 }
