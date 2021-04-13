@@ -1,0 +1,19 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    font-size:62.5%;
+}
+.container {
+    border: 3px solid black;
+    width:70%;
+    margin:0 auto;
+}
+
+h1 {
+    color: rgb(219, 63, 198);
+    text-align:center
+}
