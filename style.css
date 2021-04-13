@@ -11,9 +11,17 @@ html{
     border: 3px solid black;
     width:70%;
     margin:0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 h1 {
     color: rgb(219, 63, 198);
     text-align:center
+}
+
+.esa {
+    color: green;
+    font-weight: bolder;
 }
