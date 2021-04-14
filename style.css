@@ -21,6 +21,9 @@ h1 {
     color: rgb(219, 63, 198);
     text-align:center
 }
+h2 {
+    color: red;
+}
 
 h2 {
     color: green;
